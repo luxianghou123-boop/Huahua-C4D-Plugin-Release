@@ -1,2 +1,2 @@
-HuahuaC4DPluginSetup-v1.1.4.exe  pending
+HuahuaC4DPluginSetup-v1.1.4.exe  8ad8b83267c3d8d3ad64fdb015d393b53233f2a6660ac972b8b09f4953f7c4b5
 HuahuaC4DPlugin-v1.1.4-mac.zip   pending

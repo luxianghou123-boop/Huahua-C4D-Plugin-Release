@@ -8,7 +8,7 @@
     "保留 JSON 文件夹监听功能",
     "检测到新的 JSON 文件后可弹窗询问是否导入"
   ],
-  "windows_installer_url": "",
+  "windows_installer_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.1.4/HuahuaC4DPluginSetup-v1.1.4.exe",
   "mac_installer_url": "",
   "manual_download_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release",
   "published_at": "2026-06-19 23:20:59 CST",
