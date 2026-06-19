@@ -1,0 +1,17 @@
+{
+  "latest_version": "1.1.4",
+  "version_name": "v1.1.4-stable",
+  "release_notes": [
+    "新增插件面板检查更新按钮",
+    "支持读取公共发布仓库 update.json",
+    "支持判断当前插件是否为最新版",
+    "保留 JSON 文件夹监听功能",
+    "检测到新的 JSON 文件后可弹窗询问是否导入"
+  ],
+  "windows_installer_url": "",
+  "mac_installer_url": "",
+  "manual_download_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release",
+  "published_at": "2026-06-19 23:20:59 CST",
+  "min_supported_c4d": "R20",
+  "max_supported_c4d": "2026"
+}
