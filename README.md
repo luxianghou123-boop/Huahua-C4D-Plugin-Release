@@ -4,8 +4,8 @@
 
 本仓库只用于插件更新检测和安装包下载，不包含完整源码。
 
-当前最新版本：v1.1.4-stable
+当前最新版本：v1.1.5-stable
 
-Windows 安装包后续会放在 `releases/v1.1.4/`。
+Windows 安装包会放在 `releases/v1.1.5/`。
 
 插件内“检查更新”按钮会读取根目录 `update.json`。
