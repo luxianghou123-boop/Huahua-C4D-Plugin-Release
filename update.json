@@ -1,18 +1,29 @@
 {
-  "latest_version": "1.1.5",
-  "version_name": "v1.1.5-stable",
-  "release_notes": [
-    "优化分布式独立探测（防穿模贴墙）性能",
-    "复杂场景中顶/地/左/右/前/后探测按钮响应更快",
-    "增加候选对象过滤，减少不必要的射线碰撞检测",
-    "保留原有多点采样和 GeRayCollider 精确检测逻辑",
-    "保留 JSON 文件夹监听功能",
-    "保留插件面板检查更新功能"
+  "version": "1.2.0",
+  "name": "花花广告设计 v1.2.0",
+  "notes": [
+    "新增公共 machineId，适配单账号单电脑授权规则",
+    "同一台电脑上的 AI 面板和 C4D 插件可共用授权，不互相踢下线",
+    "register-device / check-license / heartbeat 新增 machineId 上报",
+    "新增 machine_replaced 处理，账号在其他电脑登录时会提示重新登录",
+    "设备数量文案调整为设备记录"
   ],
-  "windows_installer_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.1.5/HuahuaC4DPluginSetup-v1.1.5.exe",
+  "downloadUrl": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.0/HuahuaC4DPlugin-v1.2.0.zip",
+  "sha256": "58a8da4a4bd118cde6cbae1f11168272e875ac03a1745749d86664ce93cdad91",
+  "forceUpdate": false,
+  "latest_version": "1.2.0",
+  "version_name": "v1.2.0-stable",
+  "release_notes": [
+    "新增公共 machineId，适配单账号单电脑授权规则",
+    "同一台电脑上的 AI 面板和 C4D 插件可共用授权，不互相踢下线",
+    "register-device / check-license / heartbeat 新增 machineId 上报",
+    "新增 machine_replaced 处理，账号在其他电脑登录时会提示重新登录",
+    "设备数量文案调整为设备记录"
+  ],
+  "windows_installer_url": "",
   "mac_installer_url": "",
-  "manual_download_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/releases/tag/v1.1.5",
-  "published_at": "2026-06-20 11:12:19 CST",
+  "manual_download_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.0/HuahuaC4DPlugin-v1.2.0.zip",
+  "published_at": "2026-06-23 15:00:00 CST",
   "min_supported_c4d": "R20",
   "max_supported_c4d": "2026"
 }
