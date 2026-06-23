@@ -6,10 +6,11 @@
     "同一台电脑上的 AI 面板和 C4D 插件可共用授权，不互相踢下线",
     "register-device / check-license / heartbeat 新增 machineId 上报",
     "新增 machine_replaced 处理，账号在其他电脑登录时会提示重新登录",
-    "设备数量文案调整为设备记录"
+    "设备数量文案调整为设备记录",
+    "本次补充 Windows exe 安装包"
   ],
-  "downloadUrl": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.0/HuahuaC4DPlugin-v1.2.0.zip",
-  "sha256": "58a8da4a4bd118cde6cbae1f11168272e875ac03a1745749d86664ce93cdad91",
+  "downloadUrl": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.0/HuahuaC4DPluginSetup-v1.2.0.exe",
+  "sha256": "e4b4a8073b4d7cba0441ebf0b430bd67c62cd3f02c7773dc9afa90c3e8c4aa06",
   "forceUpdate": false,
   "latest_version": "1.2.0",
   "version_name": "v1.2.0-stable",
@@ -18,11 +19,12 @@
     "同一台电脑上的 AI 面板和 C4D 插件可共用授权，不互相踢下线",
     "register-device / check-license / heartbeat 新增 machineId 上报",
     "新增 machine_replaced 处理，账号在其他电脑登录时会提示重新登录",
-    "设备数量文案调整为设备记录"
+    "设备数量文案调整为设备记录",
+    "本次补充 Windows exe 安装包"
   ],
-  "windows_installer_url": "",
+  "windows_installer_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.0/HuahuaC4DPluginSetup-v1.2.0.exe",
   "mac_installer_url": "",
-  "manual_download_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.0/HuahuaC4DPlugin-v1.2.0.zip",
+  "manual_download_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.0/HuahuaC4DPluginSetup-v1.2.0.exe",
   "published_at": "2026-06-23 15:00:00 CST",
   "min_supported_c4d": "R20",
   "max_supported_c4d": "2026"

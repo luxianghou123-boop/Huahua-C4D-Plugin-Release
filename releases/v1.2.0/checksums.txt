@@ -1,1 +1,2 @@
 HuahuaC4DPlugin-v1.2.0.zip  58a8da4a4bd118cde6cbae1f11168272e875ac03a1745749d86664ce93cdad91
+HuahuaC4DPluginSetup-v1.2.0.exe  e4b4a8073b4d7cba0441ebf0b430bd67c62cd3f02c7773dc9afa90c3e8c4aa06
