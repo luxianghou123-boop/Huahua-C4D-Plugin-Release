@@ -1,31 +1,27 @@
 {
-  "version": "1.2.0",
-  "name": "花花广告设计 v1.2.0",
+  "version": "1.2.2",
+  "name": "花花广告设计 v1.2.2",
   "notes": [
-    "新增公共 machineId，适配单账号单电脑授权规则",
-    "同一台电脑上的 AI 面板和 C4D 插件可共用授权，不互相踢下线",
-    "register-device / check-license / heartbeat 新增 machineId 上报",
-    "新增 machine_replaced 处理，账号在其他电脑登录时会提示重新登录",
-    "设备数量文案调整为设备记录",
-    "本次补充 Windows exe 安装包"
+    "更新检查统一走后台服务器",
+    "C4D 插件不再直接访问 GitHub update.json",
+    "下载地址由后台返回",
+    "保持云端授权、machineId、session_replaced、machine_replaced 逻辑不变"
   ],
-  "downloadUrl": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.0/HuahuaC4DPluginSetup-v1.2.0.exe",
-  "sha256": "e4b4a8073b4d7cba0441ebf0b430bd67c62cd3f02c7773dc9afa90c3e8c4aa06",
+  "downloadUrl": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.2/HuahuaC4DPluginSetup-v1.2.2.exe",
+  "sha256": "394c9a39528e1b9e594a3f2b60cbf916da69626711782a765a02331aaf0fdfe2",
   "forceUpdate": false,
-  "latest_version": "1.2.0",
-  "version_name": "v1.2.0-stable",
+  "latest_version": "1.2.2",
+  "version_name": "v1.2.2-stable",
   "release_notes": [
-    "新增公共 machineId，适配单账号单电脑授权规则",
-    "同一台电脑上的 AI 面板和 C4D 插件可共用授权，不互相踢下线",
-    "register-device / check-license / heartbeat 新增 machineId 上报",
-    "新增 machine_replaced 处理，账号在其他电脑登录时会提示重新登录",
-    "设备数量文案调整为设备记录",
-    "本次补充 Windows exe 安装包"
+    "更新检查统一走后台服务器",
+    "C4D 插件不再直接访问 GitHub update.json",
+    "下载地址由后台返回",
+    "保持云端授权、machineId、session_replaced、machine_replaced 逻辑不变"
   ],
-  "windows_installer_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.0/HuahuaC4DPluginSetup-v1.2.0.exe",
+  "windows_installer_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.2/HuahuaC4DPluginSetup-v1.2.2.exe",
   "mac_installer_url": "",
-  "manual_download_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.0/HuahuaC4DPluginSetup-v1.2.0.exe",
-  "published_at": "2026-06-23 15:00:00 CST",
+  "manual_download_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.2/HuahuaC4DPluginSetup-v1.2.2.exe",
+  "published_at": "2026-06-24 10:24:00 CST",
   "min_supported_c4d": "R20",
   "max_supported_c4d": "2026"
 }
