@@ -1,27 +1,33 @@
 {
-  "version": "1.2.2",
-  "name": "花花广告设计 v1.2.2",
+  "version": "1.2.6",
+  "name": "花花广告设计 v1.2.6",
   "notes": [
-    "更新检查统一走后台服务器",
-    "C4D 插件不再直接访问 GitHub update.json",
-    "下载地址由后台返回",
-    "保持云端授权、machineId、session_replaced、machine_replaced 逻辑不变"
+    "修复真实导入中文贴图仍提示缺失的问题",
+    "增加中文文件名 Unicode NFC / NFD 规范化匹配",
+    "增加 URL 编码贴图路径兼容",
+    "显式 texturePath 找不到时不再静默退回旧规则，避免错贴",
+    "增强缺失贴图日志，列出真实查找路径和候选文件",
+    "支持 fill / stroke 子结构中的贴图路径读取",
+    "保持授权、machineId、检查更新、CDK 兑换等逻辑不变"
   ],
-  "downloadUrl": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.2/HuahuaC4DPluginSetup-v1.2.2.exe",
-  "sha256": "394c9a39528e1b9e594a3f2b60cbf916da69626711782a765a02331aaf0fdfe2",
+  "downloadUrl": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.6/HuahuaC4DPluginSetup-v1.2.6.exe",
+  "sha256": "d1719eab64d221ccb03448e117c47c72fcccf84df9fcce43b6368e4885061b35",
   "forceUpdate": false,
-  "latest_version": "1.2.2",
-  "version_name": "v1.2.2-stable",
+  "latest_version": "1.2.6",
+  "version_name": "v1.2.6-stable",
   "release_notes": [
-    "更新检查统一走后台服务器",
-    "C4D 插件不再直接访问 GitHub update.json",
-    "下载地址由后台返回",
-    "保持云端授权、machineId、session_replaced、machine_replaced 逻辑不变"
+    "修复真实导入中文贴图仍提示缺失的问题",
+    "增加中文文件名 Unicode NFC / NFD 规范化匹配",
+    "增加 URL 编码贴图路径兼容",
+    "显式 texturePath 找不到时不再静默退回旧规则，避免错贴",
+    "增强缺失贴图日志，列出真实查找路径和候选文件",
+    "支持 fill / stroke 子结构中的贴图路径读取",
+    "保持授权、machineId、检查更新、CDK 兑换等逻辑不变"
   ],
-  "windows_installer_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.2/HuahuaC4DPluginSetup-v1.2.2.exe",
+  "windows_installer_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.6/HuahuaC4DPluginSetup-v1.2.6.exe",
   "mac_installer_url": "",
-  "manual_download_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.2/HuahuaC4DPluginSetup-v1.2.2.exe",
-  "published_at": "2026-06-24 10:24:00 CST",
+  "manual_download_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.6/HuahuaC4DPluginSetup-v1.2.6.exe",
+  "published_at": "2026-06-26 10:24:56 CST",
   "min_supported_c4d": "R20",
   "max_supported_c4d": "2026"
 }
