@@ -1,38 +1,30 @@
 {
-  "version": "1.2.15",
-  "name": "花花广告设计 v1.2.15",
+  "version": "1.2.16",
+  "name": "花花智能建模-C4D端 v1.2.16",
   "notes": [
-    "模型库新增自定义存储位置功能",
-    "用户可以选择模型库根目录，后续模型库扫描、刷新、加载、贴图重链统一使用该目录",
-    "新增“选择模型库位置”按钮",
-    "新增“打开模型库文件夹”按钮",
-    "模型库路径保存到插件配置 modelLibraryPath，重启 C4D 后自动恢复",
-    "路径不存在时会尝试创建，失败时安全回退默认路径",
-    "收藏文件 my_favorites.json 会随当前模型库路径切换",
-    "未选择自定义路径时继续使用默认模型库目录",
-    "保持 AI JSON 导入、smart stack、stroke ring 合并、贴图路径、授权、machineId、检查更新、CDK 兑换逻辑不变"
+    "插件界面名称统一改为“花花智能建模-C4D端”",
+    "更新插件主窗口标题、C4D 插件菜单名称、help / 提示名称和面板内用户可见标题",
+    "更新智能展厅、智能吊顶、智能弯曲墙体、灯槽面板等用户可见标题 / 对象名里的旧名称",
+    "保持授权 pluginCode、clientCode、插件 ID、配置路径、更新地址不变",
+    "保持模型库、AI JSON 导入、smart stack、stroke ring 合并、贴图路径、授权、machineId、检查更新、CDK 兑换逻辑不变"
   ],
-  "downloadUrl": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.15/HuahuaC4DPluginSetup-v1.2.15.exe",
-  "sha256": "41f136470f64e7aaf5525bc03d04dc261b27da0f7d0472d6727a25fe103f3858",
+  "downloadUrl": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.16/HuahuaC4DPluginSetup-v1.2.16.exe",
+  "sha256": "115b13fd2b5df33b6cd99fd9863aff16ca47b45b76aa713ea606fe1576779abe",
   "forceUpdate": false,
-  "latest_version": "1.2.15",
-  "version_name": "v1.2.15-stable",
+  "latest_version": "1.2.16",
+  "version_name": "v1.2.16-stable",
   "release_notes": [
-    "模型库新增自定义存储位置功能",
-    "用户可以选择模型库根目录，后续模型库扫描、刷新、加载、贴图重链统一使用该目录",
-    "新增“选择模型库位置”按钮",
-    "新增“打开模型库文件夹”按钮",
-    "模型库路径保存到插件配置 modelLibraryPath，重启 C4D 后自动恢复",
-    "路径不存在时会尝试创建，失败时安全回退默认路径",
-    "收藏文件 my_favorites.json 会随当前模型库路径切换",
-    "未选择自定义路径时继续使用默认模型库目录",
-    "保持 AI JSON 导入、smart stack、stroke ring 合并、贴图路径、授权、machineId、检查更新、CDK 兑换逻辑不变"
+    "插件界面名称统一改为“花花智能建模-C4D端”",
+    "更新插件主窗口标题、C4D 插件菜单名称、help / 提示名称和面板内用户可见标题",
+    "更新智能展厅、智能吊顶、智能弯曲墙体、灯槽面板等用户可见标题 / 对象名里的旧名称",
+    "保持授权 pluginCode、clientCode、插件 ID、配置路径、更新地址不变",
+    "保持模型库、AI JSON 导入、smart stack、stroke ring 合并、贴图路径、授权、machineId、检查更新、CDK 兑换逻辑不变"
   ],
-  "windows_installer_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.15/HuahuaC4DPluginSetup-v1.2.15.exe",
+  "windows_installer_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.16/HuahuaC4DPluginSetup-v1.2.16.exe",
   "mac_installer_url": "",
-  "manual_download_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.15/HuahuaC4DPluginSetup-v1.2.15.exe",
-  "published_at": "2026-07-02 00:00:00 CST",
+  "manual_download_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.16/HuahuaC4DPluginSetup-v1.2.16.exe",
+  "published_at": "2026-07-02 22:15:00 CST",
   "min_supported_c4d": "R20",
   "max_supported_c4d": "2026",
-  "fileSize": 2218155
+  "fileSize": 2218157
 }
