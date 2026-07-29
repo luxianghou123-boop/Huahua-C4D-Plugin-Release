@@ -11,7 +11,7 @@
     "修复模型库缺少缩略图导致空白卡片"
   ],
   "downloadUrl": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.23/HuahuaC4DPlugin-v1.2.23.exe",
-  "sha256": "15dbe0c8e30a27f6f4737d4fd352b2c5730c5aa5733032c7755a1387233c5593",
+  "sha256": "12d1bed58cfc775c05754e48213b953f15a6c94a8aaa7acf1ad9687ef86f22af",
   "forceUpdate": false,
   "latest_version": "1.2.23",
   "version_name": "v1.2.23-stable",
@@ -30,5 +30,5 @@
   "published_at": "2026-07-29 10:57:00 CST",
   "min_supported_c4d": "R20",
   "max_supported_c4d": "2026",
-  "fileSize": 128639
+  "fileSize": 2167289
 }
