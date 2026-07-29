@@ -10,8 +10,8 @@
     "修复单模型绘制异常影响其它模型",
     "修复模型库缺少缩略图导致空白卡片"
   ],
-  "downloadUrl": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.23/HuahuaC4DPlugin-v1.2.23.zip",
-  "sha256": "9c7cb225fe5b455ab79cb28996e8487e2fd231c04df74a2c1d978be409529bf3",
+  "downloadUrl": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.23/HuahuaC4DPlugin-v1.2.23.exe",
+  "sha256": "15dbe0c8e30a27f6f4737d4fd352b2c5730c5aa5733032c7755a1387233c5593",
   "forceUpdate": false,
   "latest_version": "1.2.23",
   "version_name": "v1.2.23-stable",
@@ -24,11 +24,11 @@
     "修复单模型绘制异常影响其它模型",
     "修复模型库缺少缩略图导致空白卡片"
   ],
-  "windows_installer_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.23/HuahuaC4DPlugin-v1.2.23.zip",
+  "windows_installer_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.23/HuahuaC4DPlugin-v1.2.23.exe",
   "mac_installer_url": "",
-  "manual_download_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.23/HuahuaC4DPlugin-v1.2.23.zip",
+  "manual_download_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.23/HuahuaC4DPlugin-v1.2.23.exe",
   "published_at": "2026-07-29 10:57:00 CST",
   "min_supported_c4d": "R20",
   "max_supported_c4d": "2026",
-  "fileSize": 90463
+  "fileSize": 128639
 }

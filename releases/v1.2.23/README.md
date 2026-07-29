@@ -15,4 +15,4 @@
 
 ## 安装
 
-将 `HuahuaC4DPlugin` 文件夹复制到 Cinema 4D 的 `plugins` 目录后重启 C4D。
+运行 `HuahuaC4DPlugin-v1.2.23.exe`，选择 Cinema 4D 的 `plugins\HuahuaC4DPlugin` 安装目录，安装完成后重启 C4D。
