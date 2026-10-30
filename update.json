@@ -1,34 +1,34 @@
 {
-  "version": "1.2.23",
-  "name": "花花智能建模-C4D端 v1.2.23",
+  "version": "1.2.24",
+  "name": "花花智能建模-C4D端 v1.2.24",
   "notes": [
-    "模型库支持文件夹作为模型单位",
-    "模型数量显示优化",
-    "模型库滚动显示修复",
-    "无缩略图模型显示“没有预览图”",
-    "修复模型卡片显示不完整",
-    "修复单模型绘制异常影响其它模型",
-    "修复模型库缺少缩略图导致空白卡片"
+    "新增可编辑的多段程序化楼梯，支持平台、转向和新增楼段参数继承",
+    "楼梯支持精细扶手、独立材质、踏面饰板、灯带、边带和墙面窗户",
+    "新增智能门窗，提供 13 种门窗预设及对应预览图",
+    "支持推拉窗、木门、消防门和玻璃门，可适配选中对象尺寸",
+    "普通木门支持可调整尺寸和位置的玻璃小窗",
+    "优化门窗框体、玻璃和五金连接细节",
+    "保持模型库、AI JSON 导入、授权、machineId、检查更新和 CDK 兑换逻辑不变"
   ],
-  "downloadUrl": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.23/HuahuaC4DPlugin-v1.2.23.exe",
-  "sha256": "12d1bed58cfc775c05754e48213b953f15a6c94a8aaa7acf1ad9687ef86f22af",
+  "downloadUrl": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.24/HuahuaC4DPlugin-v1.2.24.exe",
+  "sha256": "2b8de4ba9ed43cfc72d4f32b0bc23b7217a24e974f452716e79b65d0915e4be4",
   "forceUpdate": false,
-  "latest_version": "1.2.23",
-  "version_name": "v1.2.23-stable",
+  "latest_version": "1.2.24",
+  "version_name": "v1.2.24-stable",
   "release_notes": [
-    "模型库支持文件夹作为模型单位",
-    "模型数量显示优化",
-    "模型库滚动显示修复",
-    "无缩略图模型显示“没有预览图”",
-    "修复模型卡片显示不完整",
-    "修复单模型绘制异常影响其它模型",
-    "修复模型库缺少缩略图导致空白卡片"
+    "新增可编辑的多段程序化楼梯，支持平台、转向和新增楼段参数继承",
+    "楼梯支持精细扶手、独立材质、踏面饰板、灯带、边带和墙面窗户",
+    "新增智能门窗，提供 13 种门窗预设及对应预览图",
+    "支持推拉窗、木门、消防门和玻璃门，可适配选中对象尺寸",
+    "普通木门支持可调整尺寸和位置的玻璃小窗",
+    "优化门窗框体、玻璃和五金连接细节",
+    "保持模型库、AI JSON 导入、授权、machineId、检查更新和 CDK 兑换逻辑不变"
   ],
-  "windows_installer_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.23/HuahuaC4DPlugin-v1.2.23.exe",
+  "windows_installer_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.24/HuahuaC4DPlugin-v1.2.24.exe",
   "mac_installer_url": "",
-  "manual_download_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.23/HuahuaC4DPlugin-v1.2.23.exe",
-  "published_at": "2026-07-29 10:57:00 CST",
+  "manual_download_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.24/HuahuaC4DPlugin-v1.2.24.exe",
+  "published_at": "2026-10-30 10:16:00 CST",
   "min_supported_c4d": "R20",
   "max_supported_c4d": "2026",
-  "fileSize": 2167289
+  "fileSize": 2289827
 }
