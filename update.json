@@ -1,41 +1,41 @@
 {
-  "version": "1.2.59",
-  "downloadUrl": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.59/HuahuaC4DPlugin-v1.2.59.exe",
-  "sha256": "8a69dfd37ef985c5b85dff4819c1c9eeba5d6551e7dbeff5296238525c933e19",
-  "fileSize": 2529929,
-  "name": "花花智能建模-C4D端 v1.2.59",
+  "version": "1.2.60",
+  "downloadUrl": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.60/HuahuaC4DPlugin-v1.2.60.exe",
+  "sha256": "ba7aeaea6899ffa56423ced1002a79be3a121aed48ec6a280d2cc8dbf3d4e8ac",
+  "fileSize": 2530841,
+  "name": "花花智能建模-C4D端 v1.2.60",
   "notes": [
-    "修复跌级吊顶空调格栅上方及侧面漏光：增加不透明遮光背板与四周封边，接缝搭接封闭。",
-    "保留底部格栅外观、风口尺寸调节及现有吊顶功能。",
-    "包含 v1.2.58 全部功能，不更改授权或 AI 面板逻辑。"
+    "智能门窗、消防柜、楼梯及墙体适配吊顶增加持久材质引用，避免清理未使用材质时误删生成器材质。",
+    "更换、清空材质链接时同步引用，保留分区材质，不新建额外材质球。",
+    "包含 v1.2.59 风口遮光修复，不修改授权或 AI 面板逻辑。"
   ],
   "forceUpdate": false,
-  "latest_version": "1.2.59",
-  "version_name": "v1.2.59-stable",
+  "latest_version": "1.2.60",
+  "version_name": "v1.2.60-stable",
   "release_notes": [
-    "修复跌级吊顶空调格栅上方及侧面漏光：增加不透明遮光背板与四周封边，接缝搭接封闭。",
-    "保留底部格栅外观、风口尺寸调节及现有吊顶功能。",
-    "包含 v1.2.58 全部功能，不更改授权或 AI 面板逻辑。"
+    "智能门窗、消防柜、楼梯及墙体适配吊顶增加持久材质引用，避免清理未使用材质时误删生成器材质。",
+    "更换、清空材质链接时同步引用，保留分区材质，不新建额外材质球。",
+    "包含 v1.2.59 风口遮光修复，不修改授权或 AI 面板逻辑。"
   ],
-  "windows_installer_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.59/HuahuaC4DPlugin-v1.2.59.exe",
-  "mac_installer_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.59/HuahuaC4DPlugin-v1.2.59-manual.zip",
-  "manual_download_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.59/HuahuaC4DPlugin-v1.2.59-manual.zip",
-  "published_at": "2026-11-04T20:31:14.930578+08:00",
+  "windows_installer_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.60/HuahuaC4DPlugin-v1.2.60.exe",
+  "mac_installer_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.60/HuahuaC4DPlugin-v1.2.60-manual.zip",
+  "manual_download_url": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.60/HuahuaC4DPlugin-v1.2.60-manual.zip",
+  "published_at": "2026-11-06T17:38:49.627564+08:00",
   "min_supported_c4d": "R20",
   "max_supported_c4d": "2026",
-  "releasePage": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/releases/tag/v1.2.59",
+  "releasePage": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/releases/tag/v1.2.60",
   "platforms": {
     "windows": {
-      "version": "1.2.59",
-      "downloadUrl": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.59/HuahuaC4DPlugin-v1.2.59.exe",
-      "sha256": "8a69dfd37ef985c5b85dff4819c1c9eeba5d6551e7dbeff5296238525c933e19",
-      "fileSize": 2529929
+      "version": "1.2.60",
+      "downloadUrl": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.60/HuahuaC4DPlugin-v1.2.60.exe",
+      "sha256": "ba7aeaea6899ffa56423ced1002a79be3a121aed48ec6a280d2cc8dbf3d4e8ac",
+      "fileSize": 2530841
     },
     "mac": {
-      "version": "1.2.59",
-      "downloadUrl": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.59/HuahuaC4DPlugin-v1.2.59-manual.zip",
-      "sha256": "8db1aaeaf8c097a3bf38281fb4ab3ce2fb1b02b041175191a84a008f3db9e5d2",
-      "fileSize": 514771,
+      "version": "1.2.60",
+      "downloadUrl": "https://github.com/luxianghou123-boop/Huahua-C4D-Plugin-Release/raw/main/releases/v1.2.60/HuahuaC4DPlugin-v1.2.60-manual.zip",
+      "sha256": "05ac0a9c145de8e21e0a8a8b7cd69eee2643192bf4a758afa486a0853a6a7781",
+      "fileSize": 515631,
       "packageType": "manual_zip"
     }
   }
